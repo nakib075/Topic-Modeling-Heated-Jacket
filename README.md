@@ -9,8 +9,10 @@ The term "topic modeling" refers to a technique that is based on statistics and 
 
 
 Latent Dirichlet Allocation 
+
 The Latent Dirichlet Allocation, often known as LDA, is now the most widely used latent topic model because to the conceptual benefits it offers over other latent topic models (Blei et al., 2003). The model compiles automated summaries of the subjects based on a discrete probability distribution across the words associated with each topic. The next step is to draw conclusions about the discrete distribution of documents across subjects. The probabilistic generating process that is connected with LDA is where the interaction between the documents that have been seen and the hidden topic structure is made explicit.
 
 
 Purpose statement
+
 The purpose of the research is to unearth themes from the text dataset. User-generated content (approximately 20,0000 reviews) on the use of electrically heated jackets were first collected and then thematic analysis was performed to better understand consumers motivations and hindrance related to the clothing's use.
